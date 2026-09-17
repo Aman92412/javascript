@@ -1,0 +1,1 @@
+console.log("aman raj welcome to the journey of learning the javascript");
