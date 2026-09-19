@@ -25,7 +25,7 @@ x= true;  //now x is a boolean
 
 //Data types in JS
 //1.String strings were written inside the double quotes
-//2.Number
+//2.Number numbers are use to store in decimal value or floating point
 //3.BigInt
 //4.Boolean
 //5.Object
