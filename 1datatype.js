@@ -24,7 +24,7 @@ x= true;  //now x is a boolean
 //       immutable
 
 //Data types in JS
-//1.String
+//1.String strings were written inside the double quotes
 //2.Number
 //3.BigInt
 //4.Boolean
