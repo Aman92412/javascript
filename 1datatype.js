@@ -5,7 +5,7 @@
 let x=49; //x is a number
 x="nomad" //now x is a string
 x= true;  //now x is a boolean
-
+     
 //js allow the implicit type conversion when operation involves mismatched types, instead of throwing type errors.
 
 //Drawback -->this feature create bugs when conversions happens where they are not expected
@@ -23,6 +23,15 @@ x= true;  //now x is a boolean
 //     --primitive values are           --objects and array 
 //       immutable
 
+//Data types in JS
+//1.String
+//2.Number
+//3.BigInt
+//4.Boolean
+//5.Object
+//6.undefined
+//7.null
+//8.Symbol
 
 
 
